@@ -6,6 +6,10 @@
   box-sizing: border-box;
 }
 
+.bg-img{
+  background-image: url("https://codecondo.com/wp-content/uploads/2015/05/Resources-to-Get-You-Started-with-ReactJS.jpg")
+   
+}
 body {
   position: relative;
   background-color: rgb(104, 104, 104);

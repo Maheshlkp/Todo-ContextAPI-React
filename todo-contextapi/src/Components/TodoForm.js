@@ -13,7 +13,7 @@ const TodoForm = () =>{
 
     const handleSubmit = e =>{
         e.preventDefault();
-        if(todoString == ""){
+        if(todoString === ""){
             return alert("Please enter a todo");
         }
 
